@@ -105,7 +105,7 @@ function App() {
       </main>
 
       <footer className="pb-10 text-center text-xs text-slate-400">
-        Made with ♥︎ DieuCao
+        Made by ♥︎ DieuCao
       </footer>
     </div>
   );
