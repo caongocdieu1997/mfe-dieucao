@@ -105,7 +105,7 @@ function App() {
       </main>
 
       <footer className="pb-10 text-center text-xs text-slate-400">
-        Made with ♥︎ React & Tailwind
+        Made with ♥︎ DieuCao
       </footer>
     </div>
   );
