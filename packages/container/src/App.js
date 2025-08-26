@@ -16,7 +16,7 @@ export default function App() {
             <h1 className="text-xl font-bold tracking-tight">Todo List</h1>
           </div>
           <span className="text-sm text-slate-500">
-            {remaining || 0} việc còn lại
+            {remaining || 0} task must do
           </span>
         </div>
       </header>
